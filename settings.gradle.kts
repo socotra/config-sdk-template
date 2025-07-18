@@ -2,6 +2,7 @@ rootProject.name = "ec-config-template"
 
 pluginManagement {
     repositories {
+        mavenLocal()
         mavenCentral()
         maven("https://maven.pkg.github.com/socotra/config-sdk-template") {
             credentials {

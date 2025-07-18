@@ -1,6 +1,6 @@
 plugins {
     java
-    id("socotra-ec-config-developer") version "v0.6.5"
+    id("socotra-ec-config-developer") version "v0.6.6"
 }
 
 `socotra-config-developer` {
@@ -14,5 +14,5 @@ repositories {
 }
 
 dependencies {
-    testImplementation("org.junit.jupiter:junit-jupiter:5.8.2")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.13.3")
 }
