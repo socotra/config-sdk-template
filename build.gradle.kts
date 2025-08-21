@@ -1,6 +1,6 @@
 plugins {
     java
-    id("socotra-ec-config-developer") version "v0.6.6"
+    id("socotra-ec-config-developer") version "v0.6.7"
 }
 
 `socotra-config-developer` {
